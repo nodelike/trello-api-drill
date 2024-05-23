@@ -1,0 +1,8 @@
+# API key & Token Key
+config.js
+
+#Test function files and test functions to get id details of Checklists.
+completeCheckItem.js
+deleteList.js
+getCheckItems.js
+getChecklists.js
